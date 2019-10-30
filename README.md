@@ -1,2 +1,2 @@
 # puzzle
-Very small C++ puzzle game
+Very small puzzle game
